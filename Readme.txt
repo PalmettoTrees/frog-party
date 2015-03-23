@@ -1,3 +1,3 @@
 Hi. :)
 
-This feature is a new feature!
+This feature is a COOL new feature!
