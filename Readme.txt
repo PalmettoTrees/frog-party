@@ -1,3 +1,3 @@
 Hi. :)
 
-This feature KILLAH is a new BEEZ feature!
+This feature KILLAH is feature!
